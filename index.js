@@ -17,13 +17,13 @@ var questionTwo = {
 };
 
 var questionThree = {
-  question : "Where do i currently stay ? \n a: Bokaro,\n b: jamshedpur, \n c: Agra, \n d: America",
+  question : "Where do i currently stay ? \n a: Bokaro,\n b: jamshedpur, \n c: Agra, \n d: hyderabad",
   answer : "d"
 };
 
 
 var questionFour = {
-  question : "which Food i like most ? \n a: Idli,\n b: Dosa, \n c: puri, \n d: Aloo Dum",
+  question : "which Food i like most ? \n a: Idli,\n b: Dosa, \n c: Khir, \n d: Aloo Dum",
   answer : "b"
 };
 
